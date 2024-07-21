@@ -1,9 +1,9 @@
 # birthday-card
 <div align="center">
 
-  <h2 align="center">Grilli - Small Cafe  Website</h2>
+  <h2 align="center">Somu Birthday Card  Website</h2>
 
-  Grilli is a fully responsive cafe website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Birthday Card is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS.
 
   <a href="https://small-cafe-website.vercel.app/"><strong>➥ Live Demo</strong></a>
 
